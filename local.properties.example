@@ -1,0 +1,4 @@
+# Copy to local.properties (never commit it).
+# sdk.dir is written automatically by Android Studio.
+# Free key: https://www.pexels.com/api/
+PEXELS_API_KEY=your_pexels_api_key_here
