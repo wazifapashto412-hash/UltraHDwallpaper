@@ -1,0 +1,3 @@
+./gradlew :app:assembleDebug     # app/build/outputs/apk/debug/app-debug.apk
+./gradlew :app:assembleRelease   # signed APK if signing is configured, else *-unsigned.apk
+./gradlew :app:bundleRelease     # app/build/outputs/bundle/release/app-release.aab
